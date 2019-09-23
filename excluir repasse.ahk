@@ -18,7 +18,7 @@ SetBatchLines, 100 ; milisegundos entre cada execução
 ;----------
 
 ;-----variáveis
-loop 30 {
+loop 382 {
     Send, !{e}
     Send {enter}
 }
